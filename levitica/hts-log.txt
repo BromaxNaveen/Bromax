@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Jul 2024 13:12:09 at https://leviticatechnologies.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://leviticatechnologies.com/ -O1 "C:\Users\naveen.immandi\Downloads\Webpage" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:13:02	Error: 	"Not Found" (404) at link https://leviticatechnologies.com/assets/css/owl.video.play.html (from https://leviticatechnologies.com/assets/css/owl.carousel.min.css)
+13:13:02	Error: 	"Not Found" (404) at link https://leviticatechnologies.com/i.ibb.co/FxzBYR9/night.png (from https://leviticatechnologies.com/assets/css/theme-dark.css)
+13:13:06	Error: 	"Not Found" (404) at link https://i.ytimg.com/vi/mWRLFW8ZCxY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGCQgICh_MA8=\u0026rs=AOn4CLB23byMGKoRODXc8OM4Y04JUMHEc (from https://leviticatechnologies.com/gallery)
+13:13:06	Error: 	"Not Found" (404) at link https://i.ytimg.com/vi/IRRQ8MgVtng/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBMgTih_MA8=\u0026rs=AOn4CLAZvyCJpcEDulxCKHvMGgcRR6yWow (from https://leviticatechnologies.com/gallery)
+13:13:06	Error: 	"Not Found" (404) at link https://leviticatechnologies.com/services-Website%2520Design (from https://leviticatechnologies.com/services)
+13:13:06	Error: 	"Not Found" (404) at link https://leviticatechnologies.com/services-Software%2520Testing (from https://leviticatechnologies.com/services)
+13:13:06	Error: 	"Not Found" (404) at link https://leviticatechnologies.com/terms-condition.html (from https://leviticatechnologies.com/contact)
+13:13:06	Error: 	"Not Found" (404) at link https://leviticatechnologies.com/privacy-policy.html (from https://leviticatechnologies.com/contact)
+
+HTTrack Website Copier/3.49-2 mirror complete in 58 seconds : 148 links scanned, 139 files written (18552023 bytes overall) [16080709 bytes received at 277253 bytes/sec], 3968960 bytes transferred using HTTP compression in 60 files, ratio 35%, 4.8 requests per connection
+(8 errors, 0 warnings, 0 messages)
